@@ -15,4 +15,4 @@ Key tasks include:
 Skills Utilized: Python, Pandas, Matplotlib, Seaborn, Data Cleaning, Data Visualization, Customer Segmentation, Sales Trend Analysis.
 
 # Dashboard
-![image alt]()
+![image alt](https://github.com/haritha090/Exploratory-Data-Analysis-EDA-for-E-commerce-Sales/blob/main/Screenshot%20(174).png?raw=true)
